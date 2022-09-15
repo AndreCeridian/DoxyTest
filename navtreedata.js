@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "CERIDIAN MVC", "index.html", [
+  [ "Hello World Docs", "index.html", [
     [ "Customization", "md_docs_addons_doxygen_awesome_css_main_docs_customization.html", [
       [ "CSS-Variables", "md_docs_addons_doxygen_awesome_css_main_docs_customization.html#autotoc_md1", [
         [ "Setup", "md_docs_addons_doxygen_awesome_css_main_docs_customization.html#autotoc_md2", null ],
