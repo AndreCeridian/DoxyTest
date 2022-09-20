@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Hello World Docs", "index.html", [
-    [ "Vacuo placetque sublimis vitat nec agresti prohibentque", "md_docs_docutest.html", [
+    [ "Custom Doc File (Placeholder)", "md_docs_docutest.html", [
       [ "Cum et ossibus quibus", "md_docs_docutest.html#autotoc_md1", null ],
       [ "Quem caelumque", "md_docs_docutest.html#autotoc_md2", null ]
     ] ],
