@@ -2,12 +2,26 @@ using System;
 
 namespace HelloWorld
 {
-    class TestClass1
+     /// <summary>
+    /// this is a class summary
+    /// </summary>
+    public class TestClass1
     {
-        //comment
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello Again, World!");
+         /// <summary>
+        /// method summary
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
+        public void TestFuction(string key) {
+            
+            Console.WriteLine("");
         }
+        
+         /// <summary>
+        /// method summary
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
+        public void TestFuction2(string key) => Console.WriteLine("");
     }
 }
