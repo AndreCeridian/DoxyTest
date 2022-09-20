@@ -14,6 +14,7 @@ var NAVTREEINDEX0 =
 "md_docs_docutest.html":[0],
 "md_docs_docutest.html#autotoc_md1":[0,0],
 "md_docs_docutest.html#autotoc_md2":[0,1],
+"md_docs_docutest.html#autotoc_md3":[0,2],
 "namespaceHelloWorld.html":[1,0,0],
 "namespaces.html":[1,0],
 "pages.html":[]

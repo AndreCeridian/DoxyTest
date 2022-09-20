@@ -25,9 +25,10 @@
 var NAVTREE =
 [
   [ "Hello World Docs", "index.html", [
-    [ "Custom Doc File (Placeholder)", "md_docs_docutest.html", [
-      [ "Cum et ossibus quibus", "md_docs_docutest.html#autotoc_md1", null ],
-      [ "Quem caelumque", "md_docs_docutest.html#autotoc_md2", null ]
+    [ "Custom Doc File", "md_docs_docutest.html", [
+      [ "Heading 1", "md_docs_docutest.html#autotoc_md1", null ],
+      [ "Heading 2", "md_docs_docutest.html#autotoc_md2", null ],
+      [ "Heading 3", "md_docs_docutest.html#autotoc_md3", null ]
     ] ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ]
