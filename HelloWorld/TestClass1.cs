@@ -2,22 +2,23 @@ using System;
 
 namespace HelloWorld
 {
-     /// <summary>
+    /// <summary>
     /// this is a class summary
     /// </summary>
-    public class TestClass1
+    public class TestClass1 : ITestClass1
     {
-         /// <summary>
+        /// <summary>
         /// method summary
         /// </summary>
         /// <param name="key"></param>
         /// <returns></returns>
-        public void TestFuction(string key) {
-            
+        public void TestFuction(string key)
+        {
+
             Console.WriteLine("");
         }
-        
-         /// <summary>
+
+        /// <summary>
         /// method summary
         /// </summary>
         /// <param name="key"></param>

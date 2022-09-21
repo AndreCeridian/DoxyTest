@@ -9,10 +9,12 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello Again, World!");
         }
-        
-        public static void MethodTest() {
+
+        public static void MethodTest()
+        {
             //test comment
             Console.WriteLine("Another method test");
-        {
+
+        }
     }
 }
