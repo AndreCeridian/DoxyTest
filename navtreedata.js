@@ -25,10 +25,14 @@
 var NAVTREE =
 [
   [ "Hello World", "index.html", [
+    [ "Additional Documentation", "md_docs_AddlDocs.html", [
+      [ "Creating Documentation", "md_docs_AddlDocs.html#autotoc_md1", null ],
+      [ "Adding to The Project", "md_docs_AddlDocs.html#autotoc_md2", null ]
+    ] ],
     [ "Custom Doc File", "md_docs_docutest.html", [
-      [ "Heading 1", "md_docs_docutest.html#autotoc_md1", null ],
-      [ "Heading 2", "md_docs_docutest.html#autotoc_md2", null ],
-      [ "Heading 3", "md_docs_docutest.html#autotoc_md3", null ]
+      [ "Heading 1", "md_docs_docutest.html#autotoc_md4", null ],
+      [ "Heading 2", "md_docs_docutest.html#autotoc_md5", null ],
+      [ "Heading 3", "md_docs_docutest.html#autotoc_md6", null ]
     ] ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ]
