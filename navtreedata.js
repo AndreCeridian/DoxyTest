@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Hello World Docs", "index.html", [
+  [ "Hello World", "index.html", [
     [ "Custom Doc File", "md_docs_docutest.html", [
       [ "Heading 1", "md_docs_docutest.html#autotoc_md1", null ],
       [ "Heading 2", "md_docs_docutest.html#autotoc_md2", null ],
