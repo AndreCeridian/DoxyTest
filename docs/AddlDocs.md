@@ -10,7 +10,7 @@ A title, denoted by a `#`, will appear as the page title and the selector in the
 A secondary header, denoted by a `##`, will appear as a header on the page and cascading selectors in the sidebar.
 
 If images are required in your documentation, they should be added to the /docs/attachments folder, and referenced in your documentation. 
-![](./attachments/attachment.png "Attachment Directory")
+![](./attachments/attachments.png "Attachment Directory")
 
 For more formatting tips, see this guide on [Markdown](https://learnxinyminutes.com/docs/markdown/). 
 
