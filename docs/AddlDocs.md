@@ -9,6 +9,9 @@ These files take standard Markdown formatting.
 A title, denoted by a `#`, will appear as the page title and the selector in the sidebar. 
 A secondary header, denoted by a `##`, will appear as a header on the page and cascading selectors in the sidebar.
 
+If images are required in your documentation, they should be added to the /docs/attachments folder, and referenced in your documentation. 
+![](./attachments/attachment.png "Attachment Directory")
+
 For more formatting tips, see this guide on [Markdown](https://learnxinyminutes.com/docs/markdown/). 
 
 ## Adding to The Project
