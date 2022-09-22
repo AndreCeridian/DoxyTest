@@ -17,4 +17,4 @@ For more formatting tips, see this guide on [Markdown](https://learnxinyminutes.
 ## Adding to The Project
 To add a new Markdown page to this documentation, you can add it to the /docs/ folder in the `Master` branch of this repo. 
 
-You can accomplish this using Git, or by adding it directly to the repo through [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
+You can accomplish this using Git, or by uploading it directly to the repo through [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
